@@ -1,5 +1,4 @@
-# UFOS
-UFO Sightings with Javascript
+# UFO Sightings with Javascript
 
 # Overview of the Analysis
 In this module, we were given a list of data that stored UFO's sightings. We had to use Javascript to display the data as a table and manipulating but adding filters so that it would be easier to look for the Country, State, City, and Type. We then had to place the table into a HTML file.
